@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zyphora Browser</string>
+    <string name="hint_url_bar">Enter URL</string>
+    <string name="button_go">Go</string>
+    <string name="button_save_pdf">Save as PDF</string>
+    <string name="button_toggle_theme">Toggle Theme</string>
+    <string name="prompt_enter_pin">Enter PIN to Unlock</string>
+    <string name="hint_pin">PIN</string>
+    <string name="button_unlock">Unlock</string>
+</resources>
